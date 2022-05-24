@@ -47,7 +47,7 @@ This is part of Vishal Rajput's [Master Linked list series](https://www.youtube.
     <td><a href="nextGreaterNodeInLinkedList.cpp">Source Code</a></td>   
   </tr>
   <tr>
-    <td>Remove Zero Consecutive Nodes from Linked List I && II</td>
+    <td>Remove Zero Consecutive Nodes from Linked List</td>
     <td><a href="https://www.youtube.com/watch?v=c8a4sRSPJvU&list=PLSH9gf0XETourRyZW56Rdh9e0Phx-AJM5&index=9">Video Solution</a></td>    
     <td><a href="removeZeroSumConsecutiveNodesfromLinkedList.cpp">Source Code</a></td>  
   </tr>

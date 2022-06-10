@@ -1,4 +1,7 @@
-This is part of Vishal Rajput's [Master Linked list series](https://www.youtube.com/playlist?list=PLSH9gf0XETourRyZW56Rdh9e0Phx-AJM5).
+# All Fundamentals & Important Questions of Linked List
+
+[![](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/blob/main/Assets/linkedList.png)](https://www.youtube.com/playlist?list=PLSH9gf0XETourRyZW56Rdh9e0Phx-AJM5)
+
 
 <table>
   <tr>

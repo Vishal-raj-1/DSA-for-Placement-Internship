@@ -4,3 +4,5 @@ In this series, You will get fundamental to advanced level problems. It consists
 
 1. [Linked List](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/tree/main/Linked%20List/README.md)
 2. [Stack](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/tree/main/Stack/README.md)
+3. [Binary Tree](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/blob/main/Binary%20Tree/README.md)
+4. [HashMap & HashSet](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/tree/main/HashMap%20%26%20HashSet)

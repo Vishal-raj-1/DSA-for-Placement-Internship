@@ -1,4 +1,6 @@
-This is part of Vishal Rajput's [Binary Trees Data Structure playlist](https://www.youtube.com/watch?v=PBcgUy-XI-A&list=PLSH9gf0XETotuua1g7YYXWfZXZnU_LB5S)
+# All Fundamentals and Important Questions of Binary Tree
+
+[![](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/blob/main/Assets/binaryTree.png)](https://www.youtube.com/watch?v=PBcgUy-XI-A&list=PLSH9gf0XETotuua1g7YYXWfZXZnU_LB5S)
 
 <table>
   <tr>

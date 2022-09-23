@@ -1,4 +1,8 @@
-This is part of Vishal Rajput's [Stack Data Structure in C++ playlist](https://www.youtube.com/playlist?list=PLSH9gf0XETotSpywVcJGIYODBNL_j0P0u)
+# All Fundamentals & Important Questions of Stack
+
+
+[![](https://github.com/Vishal-raj-1/DSA-for-Placement-Internship/blob/main/Assets/stack.png)](https://www.youtube.com/playlist?list=PLSH9gf0XETotSpywVcJGIYODBNL_j0P0u)
+
 
 <table>
   <tr>
